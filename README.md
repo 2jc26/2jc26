@@ -67,7 +67,7 @@ I'm a **Full-Stack Software Engineer** focused on building reliable systems with
 ## 🤝 Contact
 
 <p align="left">
-  <a href="PUT_LINKEDIN_LINK_HERE" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/javier-cerino-pulido-696b4924a/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="28" height="28" />
   </a>
   &nbsp;&nbsp;
@@ -77,7 +77,7 @@ I'm a **Full-Stack Software Engineer** focused on building reliable systems with
 </p>
 
 <p align="left">
-  <a href="PUT_LINKEDIN_LINK_HERE" target="_blank" rel="noreferrer">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/javier-cerino-pulido-696b4924a/" target="_blank" rel="noreferrer">LinkedIn</a>
   &nbsp;•&nbsp;
   <a href="mailto:javier.cerino.p@gmail.com">javier.cerino.p@gmail.com</a>
 </p>
