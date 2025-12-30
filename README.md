@@ -4,8 +4,9 @@
 
 I'm a **Full-Stack Software Engineer** focused on building reliable systems with **microservices**, **APIs**, **performance**, and **observability**.
 
-- 💼 Software Developer I at **[Caseware](https://github.com/caseware)**
-- 🌎 Also find me here: **[JCerino26](https://github.com/jcerino26)**
+* 💼 Software Developer I at **[Caseware](https://github.com/caseware)**
+* 🎓 Graduated from **[Universidad de los Andes](https://www.uniandes.edu.co)** (Bogotá D.C., Colombia)
+* 🌎 Also find me here: **[JCerino26](https://github.com/jcerino26)**
 
 </br>
 
