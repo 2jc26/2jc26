@@ -2,7 +2,7 @@
 
 # Hi there 👋, I'm Javier Cerino Pulido
 
-I'm a **Full-Stack Software Engineer** focused on building reliable systems with **microservices**, **APIs**, **performance**, and **observability**.
+I'm a **Full-Stack Software Engineer** focused on building reliable systems with **microservices**, **APIs**, **performance**, and **observability**. I’m also a huge **videogame enthusiast**, and I’m genuinely excited about **AI**, especially how it’s going to reshape the future of software, products, and the way we live and work.
 
 * 💼 Software Developer I at **[Caseware](https://github.com/caseware)**
 * 🎓 Graduated from **[Universidad de los Andes](https://www.uniandes.edu.co)** (Bogotá D.C., Colombia)
@@ -13,8 +13,6 @@ I'm a **Full-Stack Software Engineer** focused on building reliable systems with
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=2jc26&color=brightgreen&style=flat&abbreviated=true" alt="Profile views" />
 </p>
-
----
 
 ## 🔧 Tech Stack
 
